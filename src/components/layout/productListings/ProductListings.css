@@ -1,0 +1,9 @@
+.card-body {
+    height: 200px;
+}
+
+.active {
+    height: 100% !important;
+    width: 100% !important;
+    background-color: rgb(177, 134, 255) !important;
+}

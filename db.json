@@ -1,0 +1,299 @@
+{
+    "products": [
+        {
+            "name": "Refined Bronze Ball",
+            "price": "151.00",
+            "category_id": "Table",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-12.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "1",
+            "category": "men"
+
+          },
+          {
+            "name": "Small Soft Shirt",
+            "price": "934.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-14.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "2",
+            "category": "men"
+
+          },
+          {
+            "name": "Modern Fresh Fish",
+            "price": "161.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-13.jpg",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "id": "3",
+            "category": "accessories"
+
+          },
+          {
+            "name": "Luxurious Rubber Chicken",
+            "price": "471.00",
+            "category_id": "Salad",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-11.jpg",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart ",
+            "id": "4",
+            "category": "accessories"
+
+          },
+          {
+            "name": "Oriental Plastic Pizza",
+            "price": "383.00",
+            "category_id": "Computer",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-15.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "5",
+            "category": "accessories"
+          },
+          {
+            "name": "Generic Plastic Pants",
+            "price": "214.00",
+            "category_id": "Gloves",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-16.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "6",
+            "category": "men"
+
+          },
+          {
+            "name": "Handcrafted Fresh Keyboard",
+            "price": "359.00",
+            "category_id": "Chips",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-01.jpg",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "id": "7",
+            "category": "men"
+          },
+          {
+            "name": "Modern Granite Bacon",
+            "price": "169.00",
+            "category_id": "Tuna",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-02.jpg",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "id": "8",
+            "category": "men"
+          },
+          {
+            "name": "Modern Fresh Towels",
+            "price": "855.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-03.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "9",
+            "category": "women"
+          },
+          {
+            "name": "Rustic Frozen Computer",
+            "price": "734.00",
+            "category_id": "Fish",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-10.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "10",
+            "category": "women"
+
+          },
+          {
+            "name": "Licensed Fresh Ball",
+            "price": "664.00",
+            "category_id": "Shoes",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-09.jpg",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "id": "11",
+            "category": "women"
+
+          },
+          {
+            "name": "Unbranded Fresh Shirt",
+            "price": "695.00",
+            "category_id": "Cheese",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-08.jpg",
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "id": "12",
+            "category": "women"
+
+          },
+          {
+            "name": "Awesome Fresh Pants",
+            "price": "830.00",
+            "category_id": "Pizza",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-07.jpg",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 0384 ABC800J",
+            "id": "13",
+            "category": "accessories"
+          },
+          {
+            "name": "Gorgeous Rubber Computer",
+            "price": "85.00",
+            "category_id": "Chair",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-06.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "14",
+            "category": "men"
+          },
+          {
+            "name": "Practical Plastic Sausages",
+            "price": "738.00",
+            "category_id": "Keyboard",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-05.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "15",
+            "category": "accessories"
+          },
+          {
+            "name": "Elegant Cotton Cheese",
+            "price": "573.00",
+            "category_id": "Fish",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-04.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "16",
+            "category": "women"
+          },
+          {
+            "name": "Sleek Rubber Fish",
+            "price": "770.00",
+            "category_id": "Mouse",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-03.jpg",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 0384 ABC800J",
+            "id": "17"
+          },        {
+            "name": "Refined Bronze Ball",
+            "price": "151.00",
+            "category_id": "Table",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-12.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "18"
+          },
+          {
+            "name": "Small Soft Shirt",
+            "price": "934.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-14.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "19"
+          },
+          {
+            "name": "Modern Fresh Fish",
+            "price": "161.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-13.jpg",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "id": "20"
+          },
+          {
+            "name": "Luxurious Rubber Chicken",
+            "price": "471.00",
+            "category_id": "Salad",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-11.jpg",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart ",
+            "id": "21"
+          },
+          {
+            "name": "Oriental Plastic Pizza",
+            "price": "383.00",
+            "category_id": "Computer",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-15.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "22"
+          },
+          {
+            "name": "Generic Plastic Pants",
+            "price": "214.00",
+            "category_id": "Gloves",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-16.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "23"
+          },
+          {
+            "name": "Handcrafted Fresh Keyboard",
+            "price": "359.00",
+            "category_id": "Chips",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-01.jpg",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "id": "24"
+          },
+          {
+            "name": "Modern Granite Bacon",
+            "price": "169.00",
+            "category_id": "Tuna",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-02.jpg",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "id": "25"
+          },
+          {
+            "name": "Modern Fresh Towels",
+            "price": "855.00",
+            "category_id": "Pants",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-03.jpg",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "id": "26"
+          },
+          {
+            "name": "Rustic Frozen Computer",
+            "price": "734.00",
+            "category_id": "Fish",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-10.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "27"
+          },
+          {
+            "name": "Licensed Fresh Ball",
+            "price": "664.00",
+            "category_id": "Shoes",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-09.jpg",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "id": "28"
+          },
+          {
+            "name": "Unbranded Fresh Shirt",
+            "price": "695.00",
+            "category_id": "Cheese",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-08.jpg",
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "id": "29"
+          },
+          {
+            "name": "Awesome Fresh Pants",
+            "price": "830.00",
+            "category_id": "Pizza",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-07.jpg",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 0384 ABC800J",
+            "id": "30"
+          },
+          {
+            "name": "Gorgeous Rubber Computer",
+            "price": "85.00",
+            "category_id": "Chair",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-06.jpg",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "id": "31"
+          },
+          {
+            "name": "Practical Plastic Sausages",
+            "price": "738.00",
+            "category_id": "Keyboard",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-05.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "32"
+          },
+          {
+            "name": "Elegant Cotton Cheese",
+            "price": "573.00",
+            "category_id": "Fish",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-04.jpg",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "id": "33"
+          },
+          {
+            "name": "Sleek Rubber Fish",
+            "price": "770.00",
+            "category_id": "Mouse",
+            "image": "https://wokiee.jamstacktemplates.dev/assets/images/product/product-03.jpg",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 0384 ABC800J",
+            "id": "34"
+          }
+      ]
+}

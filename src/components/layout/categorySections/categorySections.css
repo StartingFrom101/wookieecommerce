@@ -1,0 +1,19 @@
+.women-cat {
+    background-image: url('https://wokiee.jamstacktemplates.dev/assets/images/promo/index-promo-img-02.jpg');
+    background-position: center;
+    height: 500px;
+}
+
+.men-cat {
+    background-image: url('https://wokiee.jamstacktemplates.dev/assets/images/promo/index-promo-img-01.jpg');
+    background-position: center;
+}
+
+.acc-cat {
+    background-image: url('https://wokiee.jamstacktemplates.dev/assets/images/promo/index-promo-img-04.jpg');
+    background-position: center;
+}
+
+.cat {
+    color: rgb(53, 53, 53) !important;
+}
